@@ -58,4 +58,5 @@ By calling its start() function we can trigger the execution of this client. The
 ------
 参考资料：
 [Maven生成可以直接运行的jar包的多种方式](http://blog.csdn.net/xiao__gui/article/details/47341385)
+------
 作者 [@jonyhy](https://weibo.com/u/5991880963)
